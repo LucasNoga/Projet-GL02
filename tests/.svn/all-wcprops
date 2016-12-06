@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/p/gl02-project/svn/!svn/ver/140/trunk/tests
+END
+runTest.js
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/p/gl02-project/svn/!svn/ver/140/trunk/tests/runTest.js
+END
+tests_planning.js
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/p/gl02-project/svn/!svn/ver/140/trunk/tests/tests_planning.js
+END
+iCalTest.ics
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/p/gl02-project/svn/!svn/ver/140/trunk/tests/iCalTest.ics
+END
+tests_rdv.js
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/p/gl02-project/svn/!svn/ver/140/trunk/tests/tests_rdv.js
+END
+test.js
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/p/gl02-project/svn/!svn/ver/140/trunk/tests/test.js
+END

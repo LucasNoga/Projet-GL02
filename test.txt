@@ -1,0 +1,11 @@
+fichier parser_planinfo.js
+- Test la date saisie par l'utilisateur lors du parsing plan info //// test la valeur de l'année de la date le mois et le jour
+- Test si le nombre de ligne du fichier est bien égale à 49 lignes //sinon erreur ///pour cela on utilise un fonction shell (cat <fichier> | wc -l)
+- lors de la saisie de données des utilisateur on test si les données saisies sont valides
+
+fichier parser_ical.js
+-lors de la saisie de données des utilisateur on test si les données saisies sont valides
+-
+
+
+main.js verifie sie les fichier iCla et planInfo existe lors de la création de leur pplanning
